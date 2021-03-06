@@ -4,17 +4,15 @@
 
 # Preface
 
-I created this repository to try and collate a list of gender expressions (i.e. how someone presents their gender externally) for use with game development. My initial use case was limited to names and gender expressions for randomly generated NPCs. 
+I created this repository to try and collate information about gender for use with game development. My initial use case was limited to names and gender expressions (i.e. how someone presents their gender publicly) for randomly generated NPCs. When considering gender identity (i.e. how the character percieves their gender internally), it's important to recognize that it can be distinct from their gender expression. Sex assigned at birth, physical attraction, and emotional attraction are separate aspects from gender expression and identity but aren't currently covered here although I'm open to their inclusion.
 
-While it seems like a good practice to offer write-in options for player characters, I think it can be helpful to have a list that can autocomplete. I think it's also helpful to consider many options for non-player characters, particularly when randomly generating them. Pronouns are a common manifestation of gender expression but may not tell the whole story for a character.
+While it seems like a good practice to offer write-in options for player character genders, I think it can be helpful to have a list that can autocomplete or spellcheck. I think it's also helpful to consider many options for non-player characters, particularly when randomly generating them. Please keep in mind that some players may prefer to leave a character's gender unspecified whether or not it matches their own identity or expression.
 
-When considering gender identity (i.e. how the character percieves their gender internally), it's important to recognize that it can be distinct from their gender expression.
-
-Sex assigned at birth, physical attraction, and emotional attraction are separate aspects from gender expression and identity not currently covered here.
+Pronouns are a common manifestation of gender expression but may not always correspond to gender expression. I'd recommend including write-in options for pronouns, too, and supporting player choice to leave character pronouns unspecified.
 
 # Disclaimer
 
-I expect this list to be incomplete and evolving. Discussion about gender is ongoing, so terms and their definitions will evolve over time. 
+I expect the information in this repository to be incomplete and evolving. Discussion about gender is ongoing, so terms and their definitions will evolve over time. 
 
 I've done my best to be as comprehensive and inclusive as possible combining information from many sources (cited below), but there may be terms or definitions in this repository that are or will become outdated, unused, or perhaps offensive to individuals or groups. I've attempted to exclude any offensive terms or definitions unless the consensus seems to be that they have been reclaimed by members of the community but I apologize if I have made any mistakes.
 
