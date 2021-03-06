@@ -43,3 +43,6 @@ These links contain information from authors who may not be widely recognized by
 
 # Contribution
 I'm happy to accept pull requests with cited sources to improve the contents of the repository.
+
+# Thanks
+Theresa Jean Tanenbaum [@TessTanenbaum](https://twitter.com/TessTanenbaum)
