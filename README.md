@@ -8,7 +8,7 @@ I created this repository to try and collate information about gender for use wi
 
 While it seems like a good practice to offer write-in options for player character genders, I think it can be helpful to have a list that can autocomplete or spellcheck. I think it's also helpful to consider many options for non-player characters, particularly when randomly generating them. Please keep in mind that some players may prefer to leave a character's gender unspecified whether or not it matches their own identity or expression.
 
-Pronouns are a common manifestation of gender expression but may not always correspond to gender expression. I'd recommend including write-in options for pronouns, too, and supporting player choice to leave character pronouns unspecified.
+Pronouns are a common manifestation of gender expression but may not always correspond to gender expression. I'd recommend including write-in options for pronouns, too, and supporting player choice to leave character pronouns unspecified. Each culture & language may incorporate pronouns into sentences differently, so you may need to be prepared to do more than search & replace tokens in sentences.
 
 # Disclaimer
 
